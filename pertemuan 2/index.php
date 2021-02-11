@@ -6,13 +6,14 @@ https://github.com/Dean-Tr/pw2021_203040009
 Pertemuan 2 - 11 Februari 2021
 Mempelajari mengenai sintaks PHP
 */
-
+?>
+<?php
 // Standar Output
 // echo, print
 // print_r
 // var_dump
 
-echo "Dean Tirta Santika ";
+echo "Dean Tirta Santika";
 
 // Penulisan sintaks PHP
 // 1. PHP di dalam HTML
@@ -31,7 +32,6 @@ $y = 20;
 // Aritmatika
 // + - * / %
 echo $x * $y;
-echo " ";
 
 // Penggabung String / concatenation / concat
 // .
@@ -40,7 +40,6 @@ echo $nama_depan . " " . $nama_tengah . " " . $nama_belakang . " ";
 // Assignment
 // =, +=, -=, *=, /=, %=, .=
 echo $x += $y;
-echo " ";
 
 // Perbandingan
 // <, >, <=, >=, ==, !=
