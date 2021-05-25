@@ -1,0 +1,18 @@
+.img {
+    background-image: url(../assets/title.jpg);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    text-shadow: 5px 5px 3px black !important;
+    font-weight: bold !important;
+    font-size: 300%;
+    text-align: center !important;
+}
+
+.center {
+    text-align: center !important;
+}
